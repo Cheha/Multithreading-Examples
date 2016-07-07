@@ -1,0 +1,6 @@
+D:\Brain Academy\Multitherading_Examples\Example_11_Task_1\bin\Debug\Example_11_Task_1.exe.config
+D:\Brain Academy\Multitherading_Examples\Example_11_Task_1\bin\Debug\Example_11_Task_1.exe
+D:\Brain Academy\Multitherading_Examples\Example_11_Task_1\bin\Debug\Example_11_Task_1.pdb
+D:\Brain Academy\Multitherading_Examples\Example_11_Task_1\obj\Debug\Example_11_Task_1.csprojResolveAssemblyReference.cache
+D:\Brain Academy\Multitherading_Examples\Example_11_Task_1\obj\Debug\Example_11_Task_1.exe
+D:\Brain Academy\Multitherading_Examples\Example_11_Task_1\obj\Debug\Example_11_Task_1.pdb

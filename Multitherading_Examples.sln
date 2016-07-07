@@ -21,6 +21,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example_9_lock", "Example_9
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example_10_Monitor", "Example_10_Monitor\Example_10_Monitor.csproj", "{725CC174-C5B4-4F75-8B7A-AADE67A32073}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Example_11_Task_1", "Example_11_Task_1\Example_11_Task_1.csproj", "{45FAAE40-51E0-4EE8-A183-B7E6BE5A586A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -67,6 +69,10 @@ Global
 		{725CC174-C5B4-4F75-8B7A-AADE67A32073}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{725CC174-C5B4-4F75-8B7A-AADE67A32073}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{725CC174-C5B4-4F75-8B7A-AADE67A32073}.Release|Any CPU.Build.0 = Release|Any CPU
+		{45FAAE40-51E0-4EE8-A183-B7E6BE5A586A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{45FAAE40-51E0-4EE8-A183-B7E6BE5A586A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{45FAAE40-51E0-4EE8-A183-B7E6BE5A586A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{45FAAE40-51E0-4EE8-A183-B7E6BE5A586A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
