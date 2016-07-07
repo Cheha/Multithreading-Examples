@@ -1,0 +1,6 @@
+D:\Brain Academy\Multitherading_Examples\Example_10_Monitor\bin\Debug\Example_10_Monitor.exe.config
+D:\Brain Academy\Multitherading_Examples\Example_10_Monitor\bin\Debug\Example_10_Monitor.exe
+D:\Brain Academy\Multitherading_Examples\Example_10_Monitor\bin\Debug\Example_10_Monitor.pdb
+D:\Brain Academy\Multitherading_Examples\Example_10_Monitor\obj\Debug\Example_10_Monitor.csprojResolveAssemblyReference.cache
+D:\Brain Academy\Multitherading_Examples\Example_10_Monitor\obj\Debug\Example_10_Monitor.exe
+D:\Brain Academy\Multitherading_Examples\Example_10_Monitor\obj\Debug\Example_10_Monitor.pdb

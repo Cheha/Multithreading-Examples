@@ -1,0 +1,6 @@
+D:\Brain Academy\Multitherading_Examples\Example_7_Passing_Data\bin\Debug\Example_7_Passing_Data.exe.config
+D:\Brain Academy\Multitherading_Examples\Example_7_Passing_Data\bin\Debug\Example_7_Passing_Data.exe
+D:\Brain Academy\Multitherading_Examples\Example_7_Passing_Data\bin\Debug\Example_7_Passing_Data.pdb
+D:\Brain Academy\Multitherading_Examples\Example_7_Passing_Data\obj\Debug\Example_7_Passing_Data.csprojResolveAssemblyReference.cache
+D:\Brain Academy\Multitherading_Examples\Example_7_Passing_Data\obj\Debug\Example_7_Passing_Data.exe
+D:\Brain Academy\Multitherading_Examples\Example_7_Passing_Data\obj\Debug\Example_7_Passing_Data.pdb
