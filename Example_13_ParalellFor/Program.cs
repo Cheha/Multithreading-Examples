@@ -21,7 +21,6 @@ namespace Example_13_ParalellFor
             }
 
             Console.WriteLine("\nUsing Parallel.For \n");
-
             Parallel.For(0, 10, i =>
             {
                 Console.WriteLine("i = {0}, thread = {1}", i,
@@ -50,6 +49,7 @@ namespace Example_13_ParalellFor
                                             subtotal += j; //modify local variable
                                             Console.WriteLine("j: {0}", j);
                                             Console.WriteLine("subtotal: {0}", subtotal);
+                                            Console.WriteLine("Current Thread: {0}", Thread.CurrentThread.ManagedThreadId);
                                             return subtotal; // value to be passed to next iteration
                                         },
                 // Method to be executed when each partition has completed.

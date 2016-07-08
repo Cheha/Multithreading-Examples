@@ -10,6 +10,7 @@ namespace Example_14_Parallel_Invoke
     {
         static void Main(string[] args)
         {
+      
             Parallel.Invoke(() =>
             {
                 Console.WriteLine("Hello, Johny");
