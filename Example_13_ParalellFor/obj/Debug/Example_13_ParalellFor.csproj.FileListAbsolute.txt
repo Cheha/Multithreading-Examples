@@ -1,0 +1,6 @@
+D:\Brain Academy\Multitherading_Examples\Example_13_ParalellFor\bin\Debug\Example_13_ParalellFor.exe.config
+D:\Brain Academy\Multitherading_Examples\Example_13_ParalellFor\bin\Debug\Example_13_ParalellFor.exe
+D:\Brain Academy\Multitherading_Examples\Example_13_ParalellFor\bin\Debug\Example_13_ParalellFor.pdb
+D:\Brain Academy\Multitherading_Examples\Example_13_ParalellFor\obj\Debug\Example_13_ParalellFor.exe
+D:\Brain Academy\Multitherading_Examples\Example_13_ParalellFor\obj\Debug\Example_13_ParalellFor.pdb
+D:\Brain Academy\Multitherading_Examples\Example_13_ParalellFor\obj\Debug\Example_13_ParalellFor.csprojResolveAssemblyReference.cache

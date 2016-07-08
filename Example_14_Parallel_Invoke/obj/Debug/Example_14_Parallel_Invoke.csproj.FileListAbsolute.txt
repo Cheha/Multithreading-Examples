@@ -1,0 +1,5 @@
+D:\Brain Academy\Multitherading_Examples\Example_14_Parallel_Invoke\bin\Debug\Example_14_Parallel_Invoke.exe.config
+D:\Brain Academy\Multitherading_Examples\Example_14_Parallel_Invoke\bin\Debug\Example_14_Parallel_Invoke.exe
+D:\Brain Academy\Multitherading_Examples\Example_14_Parallel_Invoke\bin\Debug\Example_14_Parallel_Invoke.pdb
+D:\Brain Academy\Multitherading_Examples\Example_14_Parallel_Invoke\obj\Debug\Example_14_Parallel_Invoke.exe
+D:\Brain Academy\Multitherading_Examples\Example_14_Parallel_Invoke\obj\Debug\Example_14_Parallel_Invoke.pdb
