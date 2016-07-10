@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
+using System.Threading;
 using System.Threading.Tasks;
 
 namespace Example_12_Task_Generic
@@ -24,6 +25,7 @@ namespace Example_12_Task_Generic
             for (int i = 0; i < n; i++) {
                 sum += n;
             }
+            Thread.Sleep(2000);
             return sum;
         }
     }
