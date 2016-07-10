@@ -1,0 +1,5 @@
+D:\Brain Academy\Multitherading_Examples\Example_19_TaskWait\bin\Debug\Example_19_TaskWait.exe.config
+D:\Brain Academy\Multitherading_Examples\Example_19_TaskWait\bin\Debug\Example_19_TaskWait.exe
+D:\Brain Academy\Multitherading_Examples\Example_19_TaskWait\bin\Debug\Example_19_TaskWait.pdb
+D:\Brain Academy\Multitherading_Examples\Example_19_TaskWait\obj\Debug\Example_19_TaskWait.exe
+D:\Brain Academy\Multitherading_Examples\Example_19_TaskWait\obj\Debug\Example_19_TaskWait.pdb
