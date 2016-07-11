@@ -15,7 +15,7 @@ namespace Example_17_Task
             Task task2 = new Task(() => DoSomeWork(2, 1700));
             Task task3 = new Task(() => DoSomeWork(3, 500));
             Task task4 = new Task(() => DoSomeWork(4, 1000));
-
+            
             task1.Start();
             task2.Start();
             task3.Start();
@@ -26,7 +26,8 @@ namespace Example_17_Task
 
         static void DoSomeWork(int id, int frequency)
         {
-            Console.WriteLine("Task #{0} is starting", id);
+            Console.WriteLine("Task #{0} is starting in thread: {1}",
+                id, Thread.CurrentThread.ManagedThreadId);
             Thread.Sleep(frequency);
             Console.WriteLine("Task #{0} has ended", id);
         }

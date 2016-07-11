@@ -16,15 +16,17 @@ namespace Example_21_async_await
         }
 
         public static async Task MyMethodAsyck() {
-            Task<int> longRunningTask = LongRunningOperationAsynk();
+            Task<int> longRunningTask = LongRunningOperationAsync();
 
             int result = await longRunningTask;
             Console.WriteLine(result);
         }
 
-        public static async Task<int> LongRunningOperationAsynk()
+        public static async Task<int> LongRunningOperationAsync()
         {
-            Thread.Sleep(2000);
+            Console.WriteLine("Start long running task");
+            Thread.Sleep(3000);
+            Console.WriteLine("End long running task");
             return 2;
         }
     }

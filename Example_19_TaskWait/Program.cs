@@ -11,15 +11,15 @@ namespace Example_19_TaskWait
     {
         static void Main(string[] args)
         {
-            var t1 = Task.Factory.StartNew(() => DoSomeWork(1, 500)).ContinueWith((prevTask) => DoSomeOtherWork(1, 700));
-            var t2 = Task.Factory.StartNew(() => DoSomeWork(2, 1500)).ContinueWith((prevTask) => Console.WriteLine(prevTask.IsCompleted));
-            var t3 = Task.Factory.StartNew(() => DoSomeWork(3, 2000));
-            var t4 = Task.Factory.StartNew(() => DoSomeWork(4, 1800));
+            var t1 = Task.Factory.StartNew(() => DoSomeWork(1, 5000)).ContinueWith((prevTask) => DoSomeOtherWork(1, 700));
+            var t2 = Task.Factory.StartNew(() => DoSomeWork(2, 3500)).ContinueWith((prevTask) => Console.WriteLine(prevTask.IsCompleted));
+            var t3 = Task.Factory.StartNew(() => DoSomeWork(3, 3000));
+            var t4 = Task.Factory.StartNew(() => DoSomeWork(4, 4000));
 
             var taskList = new List<Task> { t1, t2, t3, t4};
             Task.WaitAll(taskList.ToArray());
 
-            Console.WriteLine("Press enter to continue");
+            Console.WriteLine("Press enter to exit");
             Console.ReadLine();
         }
 

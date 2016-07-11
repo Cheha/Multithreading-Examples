@@ -3,3 +3,4 @@ D:\Brain Academy\Multitherading_Examples\Example_12_Task_Generic\bin\Debug\Examp
 D:\Brain Academy\Multitherading_Examples\Example_12_Task_Generic\bin\Debug\Example_12_Task_Generic.pdb
 D:\Brain Academy\Multitherading_Examples\Example_12_Task_Generic\obj\Debug\Example_12_Task_Generic.exe
 D:\Brain Academy\Multitherading_Examples\Example_12_Task_Generic\obj\Debug\Example_12_Task_Generic.pdb
+D:\Brain Academy\Multitherading_Examples\Example_12_Task_Generic\obj\Debug\Example_12_Task_Generic.csprojResolveAssemblyReference.cache

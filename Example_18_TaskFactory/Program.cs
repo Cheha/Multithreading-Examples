@@ -15,7 +15,7 @@ namespace Example_18_TaskFactory
             Task.Factory.StartNew(() => DoSomeWork(2, 1500)).ContinueWith((prevTask) => Console.WriteLine(prevTask.IsCompleted));
             Task.Factory.StartNew(() => DoSomeWork(3, 2000));
             Task.Factory.StartNew(() => DoSomeWork(4, 1800));
-
+            
             Console.WriteLine("Press any key to continue");
             Console.ReadLine();
         }
