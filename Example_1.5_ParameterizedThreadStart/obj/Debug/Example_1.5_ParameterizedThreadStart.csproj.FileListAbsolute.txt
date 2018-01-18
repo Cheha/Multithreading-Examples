@@ -1,0 +1,6 @@
+D:\Brain Academy\Multitherading_Examples\Example_1.5_ParameterizedThreadStart\bin\Debug\Example_1.5_ParameterizedThreadStart.exe.config
+D:\Brain Academy\Multitherading_Examples\Example_1.5_ParameterizedThreadStart\bin\Debug\Example_1.5_ParameterizedThreadStart.exe
+D:\Brain Academy\Multitherading_Examples\Example_1.5_ParameterizedThreadStart\bin\Debug\Example_1.5_ParameterizedThreadStart.pdb
+D:\Brain Academy\Multitherading_Examples\Example_1.5_ParameterizedThreadStart\obj\Debug\Example_1.5_ParameterizedThreadStart.csprojResolveAssemblyReference.cache
+D:\Brain Academy\Multitherading_Examples\Example_1.5_ParameterizedThreadStart\obj\Debug\Example_1.5_ParameterizedThreadStart.exe
+D:\Brain Academy\Multitherading_Examples\Example_1.5_ParameterizedThreadStart\obj\Debug\Example_1.5_ParameterizedThreadStart.pdb

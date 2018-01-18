@@ -29,7 +29,7 @@ namespace Example_9_lock
             thread3.Join();
 
             Console.WriteLine(Total);
-       
+            Console.ReadLine();
         }
 
         static object _lock = new object();

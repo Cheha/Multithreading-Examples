@@ -1,0 +1,6 @@
+D:\Brain Academy\Multitherading_Examples\Lab_ThreadManipulator\bin\Debug\Lab_ThreadManipulator.exe.config
+D:\Brain Academy\Multitherading_Examples\Lab_ThreadManipulator\bin\Debug\Lab_ThreadManipulator.exe
+D:\Brain Academy\Multitherading_Examples\Lab_ThreadManipulator\bin\Debug\Lab_ThreadManipulator.pdb
+D:\Brain Academy\Multitherading_Examples\Lab_ThreadManipulator\obj\Debug\Lab_ThreadManipulator.csprojResolveAssemblyReference.cache
+D:\Brain Academy\Multitherading_Examples\Lab_ThreadManipulator\obj\Debug\Lab_ThreadManipulator.exe
+D:\Brain Academy\Multitherading_Examples\Lab_ThreadManipulator\obj\Debug\Lab_ThreadManipulator.pdb

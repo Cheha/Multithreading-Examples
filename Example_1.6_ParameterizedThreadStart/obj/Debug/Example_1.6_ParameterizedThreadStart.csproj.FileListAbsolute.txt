@@ -1,0 +1,5 @@
+D:\Brain Academy\Multitherading_Examples\Example_1.6_ParameterizedThreadStart\bin\Debug\Example_1.6_ParameterizedThreadStart.exe.config
+D:\Brain Academy\Multitherading_Examples\Example_1.6_ParameterizedThreadStart\bin\Debug\Example_1.6_ParameterizedThreadStart.exe
+D:\Brain Academy\Multitherading_Examples\Example_1.6_ParameterizedThreadStart\bin\Debug\Example_1.6_ParameterizedThreadStart.pdb
+D:\Brain Academy\Multitherading_Examples\Example_1.6_ParameterizedThreadStart\obj\Debug\Example_1.6_ParameterizedThreadStart.exe
+D:\Brain Academy\Multitherading_Examples\Example_1.6_ParameterizedThreadStart\obj\Debug\Example_1.6_ParameterizedThreadStart.pdb

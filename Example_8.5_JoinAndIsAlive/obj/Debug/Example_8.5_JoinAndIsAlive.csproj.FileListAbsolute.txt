@@ -1,0 +1,5 @@
+D:\Brain Academy\Multitherading_Examples\Example_8.5_JoinAndIsAlive\bin\Debug\Example_8.5_JoinAndIsAlive.exe.config
+D:\Brain Academy\Multitherading_Examples\Example_8.5_JoinAndIsAlive\bin\Debug\Example_8.5_JoinAndIsAlive.exe
+D:\Brain Academy\Multitherading_Examples\Example_8.5_JoinAndIsAlive\bin\Debug\Example_8.5_JoinAndIsAlive.pdb
+D:\Brain Academy\Multitherading_Examples\Example_8.5_JoinAndIsAlive\obj\Debug\Example_8.5_JoinAndIsAlive.exe
+D:\Brain Academy\Multitherading_Examples\Example_8.5_JoinAndIsAlive\obj\Debug\Example_8.5_JoinAndIsAlive.pdb

@@ -9,8 +9,8 @@ namespace BrainAcademy.ThreadInterrupt
 {
     class Program
     {
-        static Thread mother = new Thread(new ThreadStart(MotherSleep));
-        static Thread son = new Thread(new ThreadStart(ChildWoke));
+        static Thread mother = new Thread(MotherSleep);
+        static Thread son = new Thread(ChildWoke);
         static void Main(string[] args)
         {
             mother.Start();

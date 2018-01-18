@@ -1,0 +1,6 @@
+D:\Brain Academy\Multitherading_Examples\Example_0_Threads\bin\Debug\Example_0_Threads.exe.config
+D:\Brain Academy\Multitherading_Examples\Example_0_Threads\bin\Debug\Example_0_Threads.exe
+D:\Brain Academy\Multitherading_Examples\Example_0_Threads\bin\Debug\Example_0_Threads.pdb
+D:\Brain Academy\Multitherading_Examples\Example_0_Threads\obj\Debug\Example_0_Threads.csprojResolveAssemblyReference.cache
+D:\Brain Academy\Multitherading_Examples\Example_0_Threads\obj\Debug\Example_0_Threads.exe
+D:\Brain Academy\Multitherading_Examples\Example_0_Threads\obj\Debug\Example_0_Threads.pdb

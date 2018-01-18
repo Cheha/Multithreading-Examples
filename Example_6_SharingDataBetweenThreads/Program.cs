@@ -12,7 +12,7 @@ namespace Example_6_SharingDataBetweenThreads
         static void Main(string[] args)
         {
             Msg_Back message = new Msg_Back();
-            message.Msg = "Ary you here?";
+            message.Msg = "Are you here?";
             new Thread(message.Reply).Start();
             Console.WriteLine("Press any key");
             Console.ReadLine();
